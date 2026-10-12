@@ -1,4 +1,4 @@
-Сertificates
+## Сertificates
 
 ### IBM SkillsBuild
 | Content Creation with Generative AI | [PDF](./certificates/ibm-content-creation-genai.pdf) |
